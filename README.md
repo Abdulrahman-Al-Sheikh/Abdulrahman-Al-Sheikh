@@ -17,9 +17,9 @@
 
 ![Abdulrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanAl-Sheikh&hide=contribs,prs&show_icons=true&theme=github_dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdulrahmanAl-Sheikh&repo=shop_app)](https://github.com/AbdulrahmanAl-Sheikh/shop_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdulrahmanAl-Sheikh)](https://github.com/AbdulrahmanAl-Sheikh)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanAl-Sheikh&layout=compact)](https://github.com/AbdulrahmanAl-Sheikh/shop_app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanAl-Sheikh&layout=compac)](https://github.com/AbdulrahmanAl-Sheikh)
 
 <!---
 Abdulrahman-Elsheikh/Abdulrahman-Elsheikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
